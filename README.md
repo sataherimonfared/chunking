@@ -79,3 +79,10 @@ Edit `config.py` to change:
 - `TOKEN_LIMIT`, `WINDOW_SIZE`, `OVERLAP` — sliding-window fallback
 - `BOILERPLATE_PATTERNS` — headings marked as `is_boilerplate: true`
 
+--- 
+## Questions
+
+If you have any questions, you can reach me at: sara.taherimonfared@gmail.com
+
+--- 
+
