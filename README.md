@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DESY Chunking Pipeline
 
 Chunks crawled DESY markdown files into smaller units with metadata, ready for embedding and FAISS indexing.
@@ -78,7 +78,4 @@ Edit `config.py` to change:
 - `SPLIT_PATTERN` — regex for splitting (default: `##` headings)
 - `TOKEN_LIMIT`, `WINDOW_SIZE`, `OVERLAP` — sliding-window fallback
 - `BOILERPLATE_PATTERNS` — headings marked as `is_boilerplate: true`
-=======
-# chunking
-Chunks crawled DESY markdown files into smaller units with metadata, ready for embedding and indexing.
->>>>>>> ea5b63f3f1b3006969ad6258085bf56da99af703
+
